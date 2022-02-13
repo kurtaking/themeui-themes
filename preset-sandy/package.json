@@ -1,0 +1,30 @@
+{
+  "name": "@kurtaking/preset-sandy",
+  "description": "Preset Sandy theme for themeui",
+  "version": "1.0.0",
+  "main": "dist/theme-ui-preset-sandy.cjs.js",
+  "module": "dist/theme-ui-preset-sandy.esm.js",
+  "types": "dist/theme-ui-preset-sandy.cjs.d.ts",
+  "source": "src/index.js",
+  "author": "Kurt King",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurtaking/themeui-themes.git"
+  },
+  "scripts": {},
+  "publishConfig": {
+    "access": "public"
+  },
+  "peerDependencies": {
+    "@theme-ui/css": ">=0.13.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kurtaking/themeui-themes/issues"
+  },
+  "homepage": "https://github.com/kurtaking/themeui-themes#readme",
+  "dependencies": {
+    "csstype": "^3.0.10"
+  },
+  "devDependencies": {}
+}
