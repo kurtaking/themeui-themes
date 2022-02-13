@@ -1,10 +1,7 @@
 {
   "name": "@kurtaking/preset-sandy",
   "description": "Preset Sandy theme for themeui",
-  "version": "1.0.0",
-  "main": "dist/theme-ui-preset-sandy.cjs.js",
-  "module": "dist/theme-ui-preset-sandy.esm.js",
-  "types": "dist/theme-ui-preset-sandy.cjs.d.ts",
+  "version": "1.0.2",
   "source": "src/index.js",
   "author": "Kurt King",
   "license": "MIT",
